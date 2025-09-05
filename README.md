@@ -27,5 +27,4 @@ This project uses NLP and scikit-learn to classify news articles as fake or real
 
 ## About the Author
 **Jasman**  
-Hardware Research Engineer @ LG Electronics  
 [LinkedIn](https://linkedin.com/in/jasman-jasman-74ab21186) | [GitHub](https://github.com/Jasman123)  
